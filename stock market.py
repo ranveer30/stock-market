@@ -1,7 +1,4 @@
-
 import pandas as pd
-
-
 
 
 googf = pd.read_csv("GOOG.csv")
